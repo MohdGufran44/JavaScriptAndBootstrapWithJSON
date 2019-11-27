@@ -1,0 +1,60 @@
+{
+  "employees": [
+    {
+      "EmpId": 100,
+      "Name": "Anas Raza",
+      "Type": "Full Stack Developer",
+      "DOB" : "03/08/1995",
+      "DOJ" : "04/06/2014",
+      "Experience":2
+    },
+    {
+      "EmpId": 101,
+      "Name": "Kapil Kumar",
+      "Type": "Mean Stack Developer",
+      "DOB" : "01/08/1991",
+      "DOJ" : "06/06/2012",
+      "Experience":2.5
+    },
+    {
+      "id": 102,
+      "Name": "Akhil Kumar",
+      "Type": "Front-end Developer",
+      "DOB" : "02/03/1997",
+      "DOJ" : "04/06/2017",
+      "Experience":2
+    },
+    {
+      "id": 103,
+      "Name": "Noori",
+      "Type": "Back-end Developer",
+      "DOB" : "01/04/1990",
+      "DOJ" : "011/12/2014",
+      "Experience":1.5
+    },
+    {
+      "id": 104,
+      "Name": "Tejaswini",
+      "Type": "HR",
+      "DOB" : "03/05/1998",
+      "DOJ" : "04/011/2018",
+      "Experience":3
+    },
+    {
+      "id": 105,
+      "Name": "Sonu",
+      "Type": "Software Engineering",
+      "DOB" : "03/01/1985",
+      "DOJ" : "04/12/2009",
+      "Experience":3.5
+    },
+    {
+      "id": 106,
+      "Name": "Rubi Rawat",
+      "Type": "technical consultant",
+      "DOB" : "02/11/1995",
+      "DOJ" : "22/12/2010",
+      "Experience":2.5
+    }
+  ]
+}
